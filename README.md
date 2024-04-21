@@ -1,5 +1,5 @@
 ~~~
-# Goal DataScients
+#Goal DataScients
 
 ***
-## Python Programming 
+##Python Programming 
