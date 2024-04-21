@@ -1,5 +1,4 @@
-~~~
-#Goal DataScients
+# DataScientist
 
 ***
-##Python Programming 
+### Python Programming 
