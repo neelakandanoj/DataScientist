@@ -3,4 +3,4 @@
 ***
 ### Python Programming 
 1.Day 1
-![alt text](image.png)
+![alt text](./Python/Img/image.png)
