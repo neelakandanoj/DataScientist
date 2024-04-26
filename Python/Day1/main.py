@@ -1,1 +1,3 @@
-print("Enter a todo: ")
+prompt="Enter a todo: "
+text=input(prompt)
+
