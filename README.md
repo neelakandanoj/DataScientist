@@ -7,3 +7,6 @@
 
 2.Day 2
 ![alt text](./Python/Img/image2.png)
+
+3.Day 3
+![alt text](./Python/Img/image3.png)
