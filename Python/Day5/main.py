@@ -18,5 +18,6 @@ while True:
         case 'complete':
             num=int(input("Enter the todo to complete: "))
             todos.pop(num)
+            
         case 'exit':
             break
