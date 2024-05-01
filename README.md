@@ -11,8 +11,11 @@
 3.Day 3
 ![alt text](./Python/Img/image3.png)
 
-3.Day 4
+4.Day 4
 ![alt text](./Python/Img/image4.png)
 
-4.Day 5
+5.Day 5
 ![alt text](./Python/Img/image5.png)
+
+6.Day 6
+![alt text](./Python/Img/image6.png)
